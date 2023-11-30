@@ -1,2 +1,9 @@
-# Project-3---Res-Form
-Responsive Form - Treehouse (P3)
+
+# Responsive Form
+This app corresponds to a stylized Responsive form 
+
+Technologies used:
+HTML,CSS
+
+
+To make it work simply place index.html in a web browser
